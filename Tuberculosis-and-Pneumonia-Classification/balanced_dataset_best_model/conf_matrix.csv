@@ -1,0 +1,4 @@
+,Normal (Predicted),Pneumonia (Predicted),Tuberculosis (Predicted)
+Normal (True),85,7,8
+Pneumonia (True),1,98,1
+Tuberculosis (True),8,1,91
